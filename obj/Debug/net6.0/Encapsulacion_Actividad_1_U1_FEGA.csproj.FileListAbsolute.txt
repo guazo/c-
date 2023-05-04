@@ -1,0 +1,15 @@
+F:\c#\Encapsulacion_Actividad_1_U1_FEGA\bin\Debug\net6.0\Encapsulacion_Actividad_1_U1_FEGA.exe
+F:\c#\Encapsulacion_Actividad_1_U1_FEGA\bin\Debug\net6.0\Encapsulacion_Actividad_1_U1_FEGA.deps.json
+F:\c#\Encapsulacion_Actividad_1_U1_FEGA\bin\Debug\net6.0\Encapsulacion_Actividad_1_U1_FEGA.runtimeconfig.json
+F:\c#\Encapsulacion_Actividad_1_U1_FEGA\bin\Debug\net6.0\Encapsulacion_Actividad_1_U1_FEGA.dll
+F:\c#\Encapsulacion_Actividad_1_U1_FEGA\bin\Debug\net6.0\Encapsulacion_Actividad_1_U1_FEGA.pdb
+F:\c#\Encapsulacion_Actividad_1_U1_FEGA\obj\Debug\net6.0\Encapsulacion_Actividad_1_U1_FEGA.csproj.AssemblyReference.cache
+F:\c#\Encapsulacion_Actividad_1_U1_FEGA\obj\Debug\net6.0\Encapsulacion_Actividad_1_U1_FEGA.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\Encapsulacion_Actividad_1_U1_FEGA\obj\Debug\net6.0\Encapsulacion_Actividad_1_U1_FEGA.AssemblyInfoInputs.cache
+F:\c#\Encapsulacion_Actividad_1_U1_FEGA\obj\Debug\net6.0\Encapsulacion_Actividad_1_U1_FEGA.AssemblyInfo.cs
+F:\c#\Encapsulacion_Actividad_1_U1_FEGA\obj\Debug\net6.0\Encapsulacion_Actividad_1_U1_FEGA.csproj.CoreCompileInputs.cache
+F:\c#\Encapsulacion_Actividad_1_U1_FEGA\obj\Debug\net6.0\Encapsulacion_Actividad_1_U1_FEGA.dll
+F:\c#\Encapsulacion_Actividad_1_U1_FEGA\obj\Debug\net6.0\refint\Encapsulacion_Actividad_1_U1_FEGA.dll
+F:\c#\Encapsulacion_Actividad_1_U1_FEGA\obj\Debug\net6.0\Encapsulacion_Actividad_1_U1_FEGA.pdb
+F:\c#\Encapsulacion_Actividad_1_U1_FEGA\obj\Debug\net6.0\Encapsulacion_Actividad_1_U1_FEGA.genruntimeconfig.cache
+F:\c#\Encapsulacion_Actividad_1_U1_FEGA\obj\Debug\net6.0\ref\Encapsulacion_Actividad_1_U1_FEGA.dll

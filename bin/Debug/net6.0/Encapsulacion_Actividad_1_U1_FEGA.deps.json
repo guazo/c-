@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Encapsulacion_Actividad_1_U1_FEGA/1.0.0": {
+        "runtime": {
+          "Encapsulacion_Actividad_1_U1_FEGA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Encapsulacion_Actividad_1_U1_FEGA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
